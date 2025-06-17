@@ -21,7 +21,7 @@
   },
   "header": {
     "greeting": "Sandeep Singh",
-    "tagline": "Developer and Creator."
+    "tagline": "Software Engineer."
   },
   "social_links": [
     {
@@ -29,12 +29,24 @@
       "url": "https://github.com/sandeepeven",
       "icon": "github",
       "required": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sandeepsingh47",
+      "icon": "linkedin",
+      "required": true
+    },
+    {
+      "name": "Personal",
+      "url": "https://sandeep-singh-me.netlify.app",
+      "icon": "globe",
+      "required": true
     }
   ],
   "github_username": "sandeepeven",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm passionate about creating amazing digital experiences and solving complex problems through code.",
+      "I like exploring product design and UX while building web and mobile apps that matter. ",
       "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
     ]
   },
@@ -54,6 +66,78 @@
           "url": "https://sandeepeven.github.io",
           "title": "View Live Site"
         }
+      },
+      {
+        "name": "Bueno Loans (Android Application)",
+        "date": "January 2021 - March 2023",
+        "description": [
+          "App to facilitate micro loans to blue collar workers through B2B partnerships. ",
+          "Executed end-to-end localization, push notifications, form handling with validations, and state management for loan processing and views. ",
+          "Implemented web view support, automated build distribution using Bitbucket CI/CD pipelines, and developed an SMS reading and synchronization SDK with Java and Native Modules. ",
+          "Created a Kotlin wrapper for third-party libraries to support React Native methods, integrating multiple third-party SDKs to enhance functionality. "
+        ],
+        "picture": "assets/projects/Placeholder.png",
+        "link": {
+          "url": "",
+          "title": "View Project"
+        }
+      },
+      {
+        "name": "KreditPe - Credit Line (Android Application)",
+        "date": "January 2021 - March 2023",
+        "description": [
+          "Developed complex UIs utilizing react-native-animated and React Native Animated APIs for seamless, interactive experiences. ",
+          "Integrated Camera API for QR code scanning to facilitate secure payments. ",
+          "Built efficient transaction and loan listing views using Virtualized List and Flat List components, optimizing performance for large data sets. "
+        ],
+        "picture": "assets/projects/Placeholder.png",
+        "link": {
+          "url": "",
+          "title": "View Project"
+        }
+      },
+      {
+        "name": "Customer Relationship Management (Web Application)",
+        "date": "January 2021 - March 2023",
+        "description": [
+          "Developed a modular web application for customer support teams to efficiently view and manage customer-related queries. ",
+          "Implemented features including user and loan management, promise-to-pay tracking, manual document verification, dashboards, waivers, settlements, campaigns, and role- and permission-based UI with action support. ",
+          "Ensured adherence to web security best practices, cross-browser compatibility, and optimized performance. "
+        ],
+        "picture": "assets/projects/Placeholder.png",
+        "link": {
+          "url": "",
+          "title": "View Project"
+        }
+      },
+      {
+        "name": "Attendance Management System (Web Application)",
+        "date": "October 2018 - December 2020",
+        "description": [
+          "Developed Create, Add, Update, and Delete functionalities for managing Teams, Job Sites, Users, Brands, Accounts, Roles, and Service Areas, incorporating filters, search, sorting, form validations, and REST API integrations. ",
+          "Built a custom calendar 'Time Sheet' for managing driver's working hours, allowing for add, edit, and delete actions with support for various trip states within a day. ",
+          "Designed and implemented a serviceable area view using Google Maps API to define areas by latitude and longitude arrays or KML files, with functionality to draw and manage polygons for service area boundaries. ",
+          "Implemented a real-time Chat application with WebSocket integration, featuring unread message notifications, date and time stamps, chat history, user/team selection, and emoji support for enriched communication. ",
+          "Created a Time Tracker with Virtualized List for real-time driver activity monitoring across teams, displaying driver statuses such as absent, on break, busy, or out of service. "
+        ],
+        "picture": "assets/projects/Placeholder.png",
+        "link": {
+          "url": "",
+          "title": "View Project"
+        }
+      },
+      {
+        "name": "Eco Service - Fleet Management (Web Application)",
+        "date": "October 2018 - December 2020",
+        "description": [
+          "Developed Create, Add, Update, and Delete functionalities for managing Teams, Users, Drivers, Cars, Accounts, Roles, Permissions, and Payments, incorporating filters, search, sorting, form validations, and REST API integrations for seamless data management. ",
+          "Implemented a feature to assign support team members to Cars using a customized Mapbox integration, leveraging various map views (terrain, buildings, icons, labels) with search and geolocation capabilities for efficient resource allocation. "
+        ],
+        "picture": "assets/projects/Placeholder.png",
+        "link": {
+          "url": "",
+          "title": "View Project"
+        }
       }
     ]
   },
@@ -61,15 +145,55 @@
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
+        "company": "BetterPlace",
+        "role": "Software Development Engineer II",
+        "date": "April 2023 - Present (2 years 3 months)",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
+          "Software Engineer @Betterplace, Gurugram, Haryana, India "
         ],
+        "logo": "assets/logos/Placeholder_Logo.png",
+        "logo_dark": "assets/logos/Placeholder_Logo.png"
+      },
+      {
+        "company": "Bueno Finance",
+        "role": "Software Development Engineer II",
+        "date": "January 2021 - March 2023 (2 years 3 months)",
+        "responsibilities": [
+          "Developed Bueno Loans (Android Application) to facilitate micro loans to blue collar workers through B2B partnerships. ",
+          "Executed end-to-end localization, push notifications, form handling with validations, and state management for loan processing and views. ",
+          "Implemented web view support, automated build distribution using Bitbucket CI/CD pipelines, and developed an SMS reading and synchronization SDK with Java and Native Modules. ",
+          "Created a Kotlin wrapper for third-party libraries to support React Native methods, integrating multiple third-party SDKs to enhance functionality. ",
+          "Developed KreditPe - Credit Line (Android Application) with complex UIs utilizing react-native-animated and React Native Animated APIs. ",
+          "Integrated Camera API for QR code scanning to facilitate secure payments. ",
+          "Built efficient transaction and loan listing views using Virtualized List and Flat List components. ",
+          "Developed a modular web application for customer support teams (Customer Relationship Management). ",
+          "Implemented features including user and loan management, promise-to-pay tracking, manual document verification, dashboards, waivers, settlements, campaigns, and role- and permission-based UI. ",
+          "Ensured adherence to web security best practices, cross-browser compatibility, and optimized performance. "
+        ],
+        "logo": "assets/logos/Placeholder_Logo.png",
+        "logo_dark": "assets/logos/Placeholder_Logo.png"
+      },
+      {
+        "company": "Jaarvistech",
+        "role": "Software Developer",
+        "date": "October 2018 - December 2020 (2 years 3 months)",
+        "responsibilities": [
+          "Developed Create, Add, Update, and Delete functionalities for managing Teams, Job Sites, Users, Brands, Accounts, Roles, and Service Areas in an Attendance Management System (Web Application). ",
+          "Built a custom calendar 'Time Sheet' for managing driver's working hours. ",
+          "Designed and implemented a serviceable area view using Google Maps API. ",
+          "Implemented a real-time Chat application with WebSocket integration. ",
+          "Created a Time Tracker with Virtualized List for real-time driver activity monitoring. ",
+          "Developed Create, Add, Update, and Delete functionalities for managing Teams, Users, Drivers, Cars, Accounts, Roles, Permissions, and Payments in Eco Service - Fleet Management (Web Application). ",
+          "Implemented a feature to assign support team members to Cars using a customized Mapbox integration. "
+        ],
+        "logo": "assets/logos/Placeholder_Logo.png",
+        "logo_dark": "assets/logos/Placeholder_Logo.png"
+      },
+      {
+        "company": "Jaarvistech",
+        "role": "Software Developer Intern",
+        "date": "April 2018 - September 2018 (6 months)",
+        "responsibilities": [],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
       }
@@ -79,12 +203,22 @@
     "title": "Skills & Technologies",
     "categories": [
       {
+        "name": "Top Skills",
+        "items": [
+          "Software Documentation ",
+          "Requirements Gathering ",
+          "Organization Skills "
+        ]
+      },
+      {
         "name": "Programming Languages & Technologies",
         "items": [
           "JavaScript",
           "Python",
           "Java",
-          "TypeScript"
+          "TypeScript",
+          "Kotlin ",
+          "React Native "
         ]
       },
       {
@@ -93,17 +227,20 @@
           "Git",
           "GitHub",
           "VS Code",
-          "Docker"
+          "Docker",
+          "Bitbucket CI/CD ",
+          "Google Maps API ",
+          "Mapbox ",
+          "WebSockets "
         ]
       },
       {
         "name": "Certifications",
         "items": [
           {
-            "name": "Add your certification name here",
-            "url": "https://example.com/your-certification-link"
-          },
-          "You can also add certifications without links"
+            "name": "Bachelor of Engineering - BE, Computer Science (Chitkara University)",
+            "url": ""
+          }
         ]
       }
     ]
